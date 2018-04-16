@@ -1,0 +1,15 @@
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\bin\Release\BFszakdolgozat.exe.config
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\bin\Release\BFszakdolgozat.exe
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\bin\Release\BFszakdolgozat.pdb
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\obj\Release\BFszakdolgozat.csprojResolveAssemblyReference.cache
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\obj\Release\BFszakdolgozat.KNaVMain.resources
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\obj\Release\BFszakdolgozat.KNaVOptions.resources
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\obj\Release\BFszakdolgozat.SnLMain.resources
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\obj\Release\BFszakdolgozat.SnLOptions.resources
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\obj\Release\BFszakdolgozat.MainMenu.resources
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\obj\Release\BFszakdolgozat.PenneyMain.resources
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\obj\Release\BFszakdolgozat.PenneyOptions.resources
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\obj\Release\BFszakdolgozat.Properties.Resources.resources
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\obj\Release\BFszakdolgozat.csproj.GenerateResource.Cache
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\obj\Release\BFszakdolgozat.exe
+C:\Users\Bujtás Ferenc\Desktop\Szakdolg\BFszakdolgozat\BFszakdolgozat\obj\Release\BFszakdolgozat.pdb
